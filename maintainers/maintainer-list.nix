@@ -10088,6 +10088,12 @@
     githubId = 8162992;
     name = "Haylin Moore";
   };
+  HazelTheWolf = {
+    email = "HazelTheWolf@pm.me";
+    github = "HazelTheWolf";
+    githubId = 37757402;
+    name = "HazelTheWolf";
+  };
   hbjydev = {
     email = "hayden@kuraudo.io";
     github = "hbjydev";
